@@ -8,7 +8,7 @@ GET /v1/application/devices?appeui=1616161616161616&token=79e5300eed5845c5a51368
 
 | **字段名称** | **字段说明** | **类型** | **必填** |
 | :---: | :---: | :---: | :---: |
-| qppeui | 应用eui 64字符串 | string | Y |
+| appeui | 应用eui 64字符串 | string | Y |
 | token | 用户token，用于对请求进行鉴权 | string | Y |
 | limit | 用于翻页，分页请求返回的记录条数 | number | Y |
 | offset | 用于翻页，分页请求返回的起始位置 | number | Y |
