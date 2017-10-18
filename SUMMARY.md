@@ -6,5 +6,6 @@
   * [应用接口](ying-yong-wen-dang/ying-yong-jie-kou.md)
     * [HTTP](ying-yong-wen-dang/ying-yong-jie-kou/http.md)
       * [获取上行数据](ying-yong-wen-dang/ying-yong-jie-kou/http/huo-qu-shang-xing-shu-ju.md)
+      * [发送下行数据](ying-yong-wen-dang/ying-yong-jie-kou/http/fa-song-xia-xing-shu-ju.md)
     * WebSocket
 
