@@ -1,6 +1,6 @@
 # 获取网关信息
 
-```js
+```py
 GET /v1/application/gateways/:mac?token=1v7rwa77f89de547bd9f10ed54e4a
 ```
 
