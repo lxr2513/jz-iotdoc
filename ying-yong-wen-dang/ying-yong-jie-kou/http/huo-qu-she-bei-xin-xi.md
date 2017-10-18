@@ -1,7 +1,7 @@
 # 获取设备信息
 
 ```js
-GET /v1/application/nodes/:deveui?token=79e5300eed5845c5a5136862477f0760
+GET /v1/application/nodes/?deveui?token=79e5300eed5845c5a5136862477f0760
 ```
 
 ## 请求参数
